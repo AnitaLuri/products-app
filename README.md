@@ -1,24 +1,26 @@
-# README
+<h1>Projeto - API Produtos (Diário de Viagem) </h1> 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<ul>
+  <li>Ruby 3.1.3</li>
+  <li>Rails 7.0.4</li>
+</ul>
 
-Things you may want to cover:
+<h3>Introdução</h3>
+Aplicação Rails API-only, dispondo informações para o projeto principal Diário de Viagem. 
 
-* Ruby version
+<h3>Documentação da API</h3>
+ * [Obter lista de produtos](#obter-lista-de-produtos)
 
-* System dependencies
 
-* Configuration
+### Obter lista de Produtos
 
-* Database creation
+**Endpoint: GET /api/v1/products**
 
-* Database initialization
+<p align = "justify">Retornos:</p>
 
-* How to run the test suite
+<p align = "justify">200 (Sucesso)</p>
 
-* Services (job queues, cache servers, search engines, etc.)
+```json
+[
 
-* Deployment instructions
-
-* ...
+]
