@@ -9,8 +9,11 @@
 Aplicação Rails API-only, dispondo informações para o projeto principal Diário de Viagem. 
 
 <h3>Documentação da API</h3>
+
  * [Obter lista de produtos](#obter-lista-de-produtos)
+
  * [Consulta de produtos através de busca](#consulta-de-produtos-através-de-busca)
+ 
  * [Status Codes](#status-code)
 
 ### Obter lista de Produtos
