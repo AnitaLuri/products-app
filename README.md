@@ -13,7 +13,7 @@ Aplicação Rails API-only, dispondo informações para o projeto principal Diá
  * [Obter lista de produtos](#obter-lista-de-produtos)
 
  * [Consulta de produtos através de busca](#consulta-de-produtos-através-de-busca)
- 
+
  * [Status Codes](#status-code)
 
 ### Obter lista de Produtos
@@ -50,7 +50,7 @@ Aplicação Rails API-only, dispondo informações para o projeto principal Diá
     "image_url":"http://localhost:4000/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dabf26901769956c897682c222be80d59b66282d/garrafa.jpeg"
   }
 ]
-
+```
 ### Consulta de produtos através de busca
 
 **Endpoint: GET /api/v1/products/query?id=TEXTOPESQUISADO**
